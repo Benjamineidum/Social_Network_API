@@ -1,5 +1,5 @@
 {
-  "name": "social-network-challenge",
+  "name": "Social_Network_API",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackiem2/social-network-challenge.git"
+    "url": "git+https://github.com/Benjamineidum/Social_Network_API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jackiem2/social-network-challenge/issues"
+    "url": "https://github.com/Benjamineidum/Social_Network_API/issues"
   },
-  "homepage": "https://github.com/jackiem2/social-network-challenge#readme",
+  "homepage": "https://github.com/Benjamineidum/Social_Network_API#readme",
   "dependencies": {
-    "express": "^4.17.3",
-    "moment": "^2.29.2",
-    "mongoose": "^6.2.11"
+    "express": "^4.18.0",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.1"
   }
 }
